@@ -2,3 +2,5 @@
 node_modules
 app.bundle.js
 app.bundle.js.map
+.idea
+package-lock.json
